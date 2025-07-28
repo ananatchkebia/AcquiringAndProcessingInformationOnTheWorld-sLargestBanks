@@ -3,8 +3,8 @@
 In this project I analyse table under the heading By market capitalization from following web-page: 
 https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
 I created a code that can be used to compile the list of the top 10 largest banks in the world 
-ranked by market capitalization in billion USD. Further, the data needs to be transformed and stored in GBP,
-EUR and INR as well, in accordance with the exchange rate information that has been made available to you as a CSV file. 
+ranked by market capitalization in billion USD. Further, the data is transformed and stored in GBP,
+EUR and INR as well, in accordance with the exchange rate information that has been made available to us as a CSV file. 
 The processed information table is to be saved locally in a CSV format and as a database table.
 
 ## Features
